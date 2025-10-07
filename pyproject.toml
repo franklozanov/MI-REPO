@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mi-repo"
+version = "0.1.0"
+description = "Sample package migrated from Replit"
+readme = "README.md"
+authors = [{name = "MI-REPO Maintainers"}]
+requires-python = ">=3.10"
+
+[project.urls]
+Homepage = "https://example.com/mi-repo"
